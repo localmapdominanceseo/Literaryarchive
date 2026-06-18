@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://usbenefitscheck.com/sitemap.xml
+
+Sitemap: https://literaryarchive.org/sitemap.xml
