@@ -5,6 +5,7 @@
   <url><loc>https://literaryarchive.org/authors/</loc></url>
   <url><loc>https://literaryarchive.org/eras/</loc></url>
   <url><loc>https://literaryarchive.org/themes/</loc></url>
+  <url><loc>https://literaryarchive.org/glossary/</loc></url>
   <url><loc>https://literaryarchive.org/sitemap-index/</loc></url>
   <url><loc>https://literaryarchive.org/about/</loc></url>
   <url><loc>https://literaryarchive.org/contact/</loc></url>
@@ -34,4 +35,11 @@
   <url><loc>https://literaryarchive.org/themes/abraham-lincoln/</loc></url>
   <url><loc>https://literaryarchive.org/themes/american-civil-war/</loc></url>
   <url><loc>https://literaryarchive.org/themes/classic/</loc></url>
+  <url><loc>https://literaryarchive.org/glossary/personification/</loc></url>
+  <url><loc>https://literaryarchive.org/glossary/extended-metaphor/</loc></url>
+  <url><loc>https://literaryarchive.org/glossary/simile/</loc></url>
+  <url><loc>https://literaryarchive.org/glossary/refrain/</loc></url>
+  <url><loc>https://literaryarchive.org/glossary/slant-rhyme/</loc></url>
+  <url><loc>https://literaryarchive.org/glossary/meter/</loc></url>
+  <url><loc>https://literaryarchive.org/glossary/anapestic-meter/</loc></url>
 </urlset>
