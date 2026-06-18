@@ -300,6 +300,18 @@ h1, h2, h3, h4 {
   margin-top: 10px;
 }
 
+.summary-notice {
+  background: var(--color-bg);
+  border: 1px solid var(--color-rule-dark);
+  border-radius: var(--radius);
+  padding: 16px 20px;
+  font-size: 14px;
+  color: var(--color-ink-soft);
+  margin: 24px 0;
+}
+.summary-notice a { font-weight: 600; }
+.summary-notice .eyebrow { display: block; margin-bottom: 6px; }
+
 .tags-row { display: flex; gap: 8px; flex-wrap: wrap; margin: 24px 0; }
 .tag-pill {
   font-size: 12.5px;
