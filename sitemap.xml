@@ -594,6 +594,31 @@
   <url><loc>https://literaryarchive.org/authors/laurence-binyon/</loc></url>
   <url><loc>https://literaryarchive.org/authors/maya-angelou/</loc></url>
   <url><loc>https://literaryarchive.org/authors/patrick-kavanagh/</loc></url>
+  <url><loc>https://literaryarchive.org/authors/charlotte-perkins-gilman/</loc></url>
+  <url><loc>https://literaryarchive.org/authors/shirley-jackson/</loc></url>
+  <url><loc>https://literaryarchive.org/authors/o-henry/</loc></url>
+  <url><loc>https://literaryarchive.org/authors/guy-de-maupassant/</loc></url>
+  <url><loc>https://literaryarchive.org/authors/anton-chekhov/</loc></url>
+  <url><loc>https://literaryarchive.org/authors/franz-kafka/</loc></url>
+  <url><loc>https://literaryarchive.org/authors/flannery-oconnor/</loc></url>
+  <url><loc>https://literaryarchive.org/authors/ernest-hemingway/</loc></url>
+  <url><loc>https://literaryarchive.org/authors/james-joyce/</loc></url>
+  <url><loc>https://literaryarchive.org/authors/william-faulkner/</loc></url>
+  <url><loc>https://literaryarchive.org/authors/richard-connell/</loc></url>
+  <url><loc>https://literaryarchive.org/authors/stephen-crane/</loc></url>
+  <url><loc>https://literaryarchive.org/authors/james-thurber/</loc></url>
+  <url><loc>https://literaryarchive.org/authors/kurt-vonnegut/</loc></url>
+  <url><loc>https://literaryarchive.org/authors/joseph-conrad/</loc></url>
+  <url><loc>https://literaryarchive.org/authors/nathaniel-hawthorne/</loc></url>
+  <url><loc>https://literaryarchive.org/authors/nikolai-gogol/</loc></url>
+  <url><loc>https://literaryarchive.org/authors/ambrose-bierce/</loc></url>
+  <url><loc>https://literaryarchive.org/authors/w-w-jacobs/</loc></url>
+  <url><loc>https://literaryarchive.org/authors/kate-chopin/</loc></url>
+  <url><loc>https://literaryarchive.org/authors/h-g-wells/</loc></url>
+  <url><loc>https://literaryarchive.org/authors/f-scott-fitzgerald/</loc></url>
+  <url><loc>https://literaryarchive.org/authors/katherine-mansfield/</loc></url>
+  <url><loc>https://literaryarchive.org/authors/henry-james/</loc></url>
+  <url><loc>https://literaryarchive.org/authors/jack-london/</loc></url>
   <url><loc>https://literaryarchive.org/eras/american-romanticism/</loc></url>
   <url><loc>https://literaryarchive.org/eras/american-gothic-romanticism/</loc></url>
   <url><loc>https://literaryarchive.org/eras/english-romanticism/</loc></url>
@@ -637,4 +662,35 @@
   <url><loc>https://literaryarchive.org/glossary/meter/</loc></url>
   <url><loc>https://literaryarchive.org/glossary/anapestic-meter/</loc></url>
   <url><loc>https://literaryarchive.org/epics/the-iliad/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/the-yellow-wallpaper/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/the-lottery/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/the-gift-of-the-magi/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/the-necklace/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/the-tell-tale-heart/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/the-cask-of-amontillado/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/the-lady-with-the-dog/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/the-bet/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/the-metamorphosis/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/a-good-man-is-hard-to-find/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/hills-like-white-elephants/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/the-dead/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/a-rose-for-emily/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/the-most-dangerous-game/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/the-open-boat/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/the-fall-of-the-house-of-usher/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/to-build-a-fire/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/the-secret-life-of-walter-mitty/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/harrison-bergeron/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/the-secret-sharer/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/young-goodman-brown/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/the-overcoat/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/in-the-penal-colony/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/an-occurrence-at-owl-creek-bridge/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/the-monkey-s-paw/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/the-story-of-an-hour/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/the-country-of-the-blind/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/the-diamond-as-big-as-the-ritz/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/the-garden-party/</loc></url>
+  <url><loc>https://literaryarchive.org/stories/the-beast-in-the-jungle/</loc></url>
 </urlset>
