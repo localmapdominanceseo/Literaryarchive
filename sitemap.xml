@@ -797,4 +797,5 @@
   <url><loc>https://literaryarchive.org/plays/much-ado-about-nothing/</loc></url>
   <url><loc>https://literaryarchive.org/plays/the-tempest/</loc></url>
   <url><loc>https://literaryarchive.org/plays/twelfth-night/</loc></url>
+  <url><loc>https://literaryarchive.org/full-index/</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
 </urlset>
