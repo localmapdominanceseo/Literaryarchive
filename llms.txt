@@ -1,0 +1,67 @@
+# Literary Archive — llms.txt
+# https://literaryarchive.org
+# Literary reference: poems, short stories, plays, authors, themes, and eras.
+
+> Literary Archive provides original summaries and analysis. Full poem texts are displayed only where public-domain status has been verified.
+
+## Poems
+- A Valediction: Forbidding Mourning by John Donne — https://literaryarchive.org/poems/a-valediction-forbidding-mourning/
+- Adonais (Extract) by Percy Bysshe Shelley — https://literaryarchive.org/poems/adonais/
+- The Deserted Village (Extract) by Oliver Goldsmith — https://literaryarchive.org/poems/the-deserted-village/
+- Strange Meeting by Wilfred Owen — https://literaryarchive.org/poems/strange-meeting/
+- England in 1819 by Percy Bysshe Shelley — https://literaryarchive.org/poems/england-in-1819/
+- Everyone Sang by Siegfried Sassoon — https://literaryarchive.org/poems/everyone-sang/
+- Flower in the Crannied Wall by Alfred Lord Tennyson — https://literaryarchive.org/poems/flower-in-the-crannied-wall/
+- Fog by Carl Sandburg — https://literaryarchive.org/poems/fog/
+- Grass by Carl Sandburg — https://literaryarchive.org/poems/grass/
+- The Hound of Heaven (Extract) by Francis Thompson — https://literaryarchive.org/poems/the-hound-of-heaven/
+- If— by Rudyard Kipling — https://literaryarchive.org/poems/if/
+- Lines Composed a Few Miles above Tintern Abbey (Extract) by William Wordsworth — https://literaryarchive.org/poems/tintern-abbey/
+- Lines Written in Early Spring by William Wordsworth — https://literaryarchive.org/poems/lines-written-in-early-spring/
+- London by William Blake — https://literaryarchive.org/poems/london/
+- London, 1802 by William Wordsworth — https://literaryarchive.org/poems/london-1802/
+- Ode: Intimations of Immortality (Extract) by William Wordsworth — https://literaryarchive.org/poems/ode-intimations-of-immortality/
+- Ode on a Distant Prospect of Eton College (Extract) by Thomas Gray — https://literaryarchive.org/poems/ode-on-a-distant-prospect-of-eton-college/
+- Pied Beauty by Gerard Manley Hopkins — https://literaryarchive.org/poems/pied-beauty/
+- The Prisoner of Chillon (Extract) by Lord Byron — https://literaryarchive.org/poems/the-prisoner-of-chillon/
+- Remember by Christina Rossetti — https://literaryarchive.org/poems/remember/
+- Snow-Bound (Extract) by John Greenleaf Whittier — https://literaryarchive.org/poems/snowbound-extract/
+- Song (When I Am Dead, My Dearest) by Christina Rossetti — https://literaryarchive.org/poems/when-i-am-dead/
+- The Charge of the Light Brigade by Alfred Lord Tennyson — https://literaryarchive.org/poems/the-charge-of-the-light-brigade/
+- The Divine Image by William Blake — https://literaryarchive.org/poems/the-divine-image/
+- The Eagle by Alfred Lord Tennyson — https://literaryarchive.org/poems/the-eagle/
+- The Lamb by William Blake — https://literaryarchive.org/poems/the-lamb-blake/
+- The Nymph's Reply to the Shepherd by Sir Walter Raleigh — https://literaryarchive.org/poems/the-nymphs-reply/
+- The Second Coming by W.B. Yeats — https://literaryarchive.org/poems/the-second-coming-yeats/
+- The Soldier by Rupert Brooke — https://literaryarchive.org/poems/the-soldier/
+- To Autumn by John Keats — https://literaryarchive.org/poems/to-autumn/
+- So, We'll Go No More a Roving by Lord Byron — https://literaryarchive.org/poems/so-well-go-no-more/
+- A Birthday by Christina Rossetti — https://literaryarchive.org/poems/a-birthday/
+- A Dream Within a Dream by Edgar Allan Poe — https://literaryarchive.org/poems/a-dream-within-a-dream/
+- A Drinking Song by W.B. Yeats — https://literaryarchive.org/poems/a-drinking-song/
+- A Lament by Percy Bysshe Shelley — https://literaryarchive.org/poems/a-lament/
+- A Man's a Man for A' That by Robert Burns — https://literaryarchive.org/poems/a-man-s-a-man/
+- A Match by Algernon Charles Swinburne — https://literaryarchive.org/poems/a-match/
+- A Nocturnal upon St. Lucy's Day by John Donne — https://literaryarchive.org/poems/a-nocturnal-upon-st-lucies-day/
+- A Prayer for My Daughter by W.B. Yeats — https://literaryarchive.org/poems/a-prayer-for-my-daughter/
+- A Psalm of Life by Henry Wadsworth Longfellow — https://literaryarchive.org/poems/a-psalm-of-life/
+- A Red, Red Rose by Robert Burns — https://literaryarchive.org/poems/a-red-red-rose/
+- A Slumber Did My Spirit Seal by William Wordsworth — https://literaryarchive.org/poems/a-slumber-did-my-spirit-seal/
+- A Song in the Front Yard by Gwendolyn Brooks — https://literaryarchive.org/poems/a-song-in-the-front-yard/
+- Adam's Curse by W.B. Yeats — https://literaryarchive.org/poems/adam-s-curse/
+- After Apple-Picking by Robert Frost — https://literaryarchive.org/poems/after-apple-picking/
+- After Great Pain, a Formal Feeling Comes by Emily Dickinson — https://literaryarchive.org/poems/after-great-pain/
+- Afterwards by Thomas Hardy — https://literaryarchive.org/poems/afterwards/
+- Air and Angels by John Donne — https://literaryarchive.org/poems/aire-and-angels/
+- Alastor, or The Spirit of Solitude (Extract) by Percy Bysshe Shelley — https://literaryarchive.org/poems/alastor/
+- Alexander's Feast by John Dryden — https://literaryarchive.org/poems/alexander-s-feast/
+- America by Claude McKay — https://literaryarchive.org/poems/america-mckay/
+- Among School Children by W.B. Yeats — https://literaryarchive.org/poems/among-school-children/
+- Amoretti: Sonnet 75 (One Day I Wrote Her Name) by Edmund Spenser — https://literaryarchive.org/poems/amoretti-extract/
+- An Irish Airman Foresees His Death by W.B. Yeats — https://literaryarchive.org/poems/an-irish-airman/
+- And Death Shall Have No Dominion by Dylan Thomas — https://literaryarchive.org/poems/and-death-shall-have-no-dominion/
+- Anecdote of the Jar by Wallace Stevens — https://literaryarchive.org/poems/anecdote-of-the-jar/
+- Annabel Lee by Edgar Allan Poe — https://literaryarchive.org/poems/annabel-lee/
+- Anthem for Doomed Youth by Wilfred Owen — https://literaryarchive.org/poems/anthem-for-doomed-youth/
+- anyone lived in a pretty how town by E.E. Cummings — https://literaryarchive.org/poems/anyone-lived-in-a-pretty-how-town/
+- As I Walked Out One Evening by W.H. Auden — https://literaryarchive.org/poems/as-i-walked-out-one-evening/
